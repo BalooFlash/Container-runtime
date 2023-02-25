@@ -1,27 +1,35 @@
-# MOBA - Multiplayer Online Battle Arena
-
-![Test Suite](https://github.com/pedromtavares/moba/workflows/Test%20Suite/badge.svg)
-[![Discord](https://img.shields.io/badge/chat-discord-7289da.svg)][discord]
-
-# ![MOBA]
-![image](https://user-images.githubusercontent.com/9028177/194760623-293e3569-736f-480e-a067-0cc98449df6c.png)
+# BattleArena_CN
 
 
+Networking project to understand and learn how different components work in Photon Unity Networking.
 
-A community-made turn-based RPG built with Phoenix LiveView.
+Just connect to the Internet, launch game, create room with a name and distribute it to your friends with whom you want to battle.
 
-## Get Involved
-MOBA is an opportunity to get your feet wet with Phoenix LiveView (or even Elixir) beyond simple counter demos. It's first and foremost a fun learning experience for all developer skill levels, while also being an actual product with real users deployed in a production environment.
+Max players allowed per room = 5
 
-### Requirements
- * C++ Serever
- * Unity Version 2017+
- * Database
- * Photon Server
+**Available on itch.io:** [BattleArena](https://avi-spc.itch.io/battlearena)
 
-### Setup
-  
-### Video
-https://www.loom.com/share/14159ba95c3a4aa0b6ba7d58c13e883e
+### Gained knowledge of
 
-[discord]: https://discord.gg/QNwEdPS
+* PhotonViews
+* RPCs
+* Data Serialization across the network
+* Animator and Transform views
+
+### Tools used
+
+* Blender3D
+* Photon Unity Networking
+* Untiy Game Engine
+
+## Screenshots
+**Start Screen**
+![](Assets/Screenshots/MainMenu.png)
+**Lobby Screen**
+![](Assets/Screenshots/Lobby.png)
+**Game Screen**
+![](Assets/Screenshots/g1.png)
+![](Assets/Screenshots/g2.png)
+**Score**
+![](Assets/Screenshots/score.png)
+
